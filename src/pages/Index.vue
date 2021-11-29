@@ -2,7 +2,7 @@
   <q-page class="flex flex-center">
     <banner></banner>
 
-    <q-list bordered class="rounded-borders">
+    <q-list bordered class="rounded-borders" style="margin-top: 15px">
       <q-expansion-item
         expand-separator
         icon="manage_accounts"
